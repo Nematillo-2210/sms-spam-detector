@@ -36,3 +36,11 @@ The Naive Bayes model proved to be the most balanced and effective algorithm. It
 1. Clone the repo: `git clone https://github.com/Nematillo-2210/sms-spam-detector`
 2. Install dependencies: `pip install scikit-learn pandas numpy`
 3. Open `notebooks/spam-classifier.ipynb` in Jupyter or VS Code and run all cells
+
+## Tech Stack
+- Python
+- scikit-learn
+- Pandas
+- NumPy
+- NLTK
+- Joblib
